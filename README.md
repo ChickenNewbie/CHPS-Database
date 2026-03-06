@@ -1,4 +1,4 @@
-# 👟 ShoeShop - Backend API 
+# 👟 CHPS - Backend API 
 
 Đây là hệ thống RESTful API phục vụ cho ứng dụng e-commerce chuyên mua bán giày dép. Hệ thống chịu trách nhiệm xử lý logic nghiệp vụ, xác thực người dùng, quản lý danh mục sản phẩm (size, màu sắc, thương hiệu), giỏ hàng, đơn hàng và tương tác với cơ sở dữ liệu.
 
@@ -19,7 +19,7 @@
 ### 2. Các bước cài đặt
 **Bước 1: Clone mã nguồn**
 ```bash
-git clone [https://github.com/ten-cua-ban/shoe-shop-api.git](https://github.com/ten-cua-ban/shoe-shop-api.git)
+git clone [https://github.com/ChickenNewbie/CHPS-Database.git](https://github.com/ChickenNewbie/CHPS-Database.git)
 cd shoe-shop-api
 Bước 2: Cài đặt thư viện
 
@@ -50,5 +50,5 @@ Bash
 npm start
 # Server sẽ chạy tại địa chỉ: http://localhost:3000
 📱 Ứng dụng Frontend (Mobile App)
-Phần giao diện người dùng (Mobile App) được phát triển bằng Flutter / React Native.
+Phần giao diện người dùng (Mobile App) được phát triển bằng Flutter
 👉 Xem chi tiết mã nguồn Frontend tại đây: https://github.com/ChickenNewbie/CHPS-shop.git
